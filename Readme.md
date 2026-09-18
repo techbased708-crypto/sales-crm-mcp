@@ -35,7 +35,7 @@ Clone the Repository:
 
 Clone the Repository:
 
-git clone [https://github.com/your-username/hubspot-mcp-server.git](https://github.com/your-username/hubspot-mcp-server.git)
+git clone [https://github.com/techbased708-crypto/hubspot-mcp-server.git](https://github.com/techbased708-crypto/hubspot-mcp-server.git)
 cd sales-crm-mcp-project
 
 Set up Virtual Environment:
